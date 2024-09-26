@@ -1,6 +1,6 @@
 Permainan ini adalah sebuah kuis tanya jawab pilihan ganda yang dibangun menggunakan konsep dasar pemrograman C seperti array, Loop, Switch-case dan If-else. Dalam permainan ini, pemain diberikan sejumlah pertanyaan dengan beberapa pilihan jawaban
 
-**a. Array ** (seperti kotak penyimpanan):
+**a. Array** (seperti kotak penyimpanan):
 Menyimpan semua pertanyaan dalam satu tempat.
 Menyimpan semua pilihan jawaban.
 Menyimpan semua jawaban yang benar.
